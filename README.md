@@ -5,18 +5,19 @@
 <p>Em parceria com o Secretária de Segurança Pública o Grupo FORMAS por meio dessa </p>
 
 ## Tecnologias Utilizadas
+- [Next.js]()
 
 
 # Telas:
 
 ##### Ínicio:
-![Ínicio](./src/assets/images/home.png)
+![Ínicio](./images/home.png)
 
 ##### Lista de Ocorrências:
-![Lista de Ocorrências](./src/assets/images/list.png)
+![Lista de Ocorrências](./images/list.png)
 
 ##### Detalhamento de Ocorrências:
-![Detalhamento de Ocorrências](./src/assets/images/home.png)
+![Detalhamento de Ocorrências](./images/home.png)
 
 
 # Link do Artigo
